@@ -65,8 +65,8 @@ I am a final-year **BCA student at IITM Janakpuri (GGSIPU)** with a **9.5/10.0 G
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIKASGULIA17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vikas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASGULIA17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=VIKASGULIA17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vikas's GitHub Stats" width="48%" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASGULIA17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" /> -->
 </div>
 
 <br>
@@ -74,6 +74,14 @@ I am a final-year **BCA student at IITM Janakpuri (GGSIPU)** with a **9.5/10.0 G
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASGULIA17&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="98%" />
 </div>
+
+### 📊 Coding Statistics
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=VIKASGULIA17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vikas's GitHub Stats" width="48%" /> -->
+  <img src="https://leetcard.jacoblin.cool/vikas_gulia?theme=dark&font=Inter&ext=heatmap" alt="Vikas's LeetCode Stats" width="48%" />
+</div>
+
 
 ---
 
