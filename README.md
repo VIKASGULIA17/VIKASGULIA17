@@ -1,101 +1,105 @@
-# About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5FF66&height=280&section=header&text=Vikas%20Gulia&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%"/>
 
-## 👋 Hello! I'm Vikas Gulia
-
-**Aspiring Data Scientist | Web Developer | Tech Enthusiast**  
-Delhi, India | [vikasgulia17@gmail.com](mailto:vikasgulia17@gmail.com) | [Portfolio](https://vikasgulia.netlify.app/)  
-[GitHub](https://github.com/VIKASGULIA17) · [LinkedIn](https://www.linkedin.com/in/vikas-gulia-b28255298) · [Instagram](https://www.instagram.com/orewa__vikas)
-
----
-
-### 🔎 Professional Summary
-I'm a passionate Data Scientist and Web Developer with a knack for turning complex data into actionable insights and building seamless digital experiences. Currently, I'm in my 3rd year of B.C.A. at IITM Janakpuri, maintaining a stellar GPA of **9.5/10**. I love exploring the intersection of data science and web technologies, and my goal is to use data to tell meaningful stories and drive impactful solutions.
-
----
-
-### 🚀 Highlights & Achievements
-
-- **2+ years** of hands-on experience in Data Science & Web Development
-- **5+ production-ready applications** built and deployed
-- **Expertise** in ML Model Deployment, Web Integration, and Front-End Development
-- **Core Member** of Tech Society at IITM Janakpuri
-- **Winner** of Code of Duty (Problem Solving Contest)
-- **350+ LeetCode problems** solved
+  <a href="https://www.linkedin.com/in/vikas-gulia-b28255298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vikasgulia17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vikasgulia.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 🎓 Education
+### 👨‍💻 About Me
 
-**Bachelor of Computer Applications (B.C.A.)**  
-IITM Janakpuri, 2023–2026  
-3rd Year (Currently Pursuing) | **GPA:** 9.5/10
+I am a final-year **BCA student at IITM Janakpuri (GGSIPU)** with a **9.5/10.0 GPA**, passionate about building scalable enterprise-grade solutions and extracting insights from data. I bridge the gap between **Complex Data Analytics** and **Modern Web Development**.
 
-**Relevant Coursework:**  
-Data Structures & Algorithms, Machine Learning, Database Management Systems, Web Development, Software Engineering, Computer Networks, Data Science, Photoshop, C/C++
-
-**Certifications:**
-- Data Science & Analytics — HP LIFE (2024)
-- Training Completion in AI & ML — Industry Training Program (2023)
-- Python for Data Science — IBM/Cognitive Class (2023)
+* 🔭 I’m currently working on **Advanced Retrieval-Augmented Generation (RAG) Systems**.
+* 👯 I’m looking to collaborate on **Open Source Python Libraries & Full-Stack SaaS**.
+* 🤝 **Leadership:** DSA Head at Nexverse (Tech Society), leading 10+ members.
+* 🏆 **Competitive Programming:** Solved **450+ LeetCode** problems.
 
 ---
 
-### 💻 Technical Skills
+### 🛠️ Tech Stack
 
-**Languages:** Python 🐍 | JavaScript 🟨 | PHP 🔷 | C++ ⚡ | HTML 🌐 | CSS 🎨  
-**Frameworks & Tools:** React ⚛️ | Next.js ▲ | Tailwind CSS 💨 | Streamlit 🎯 | Supabase ⚡ | Git/GitHub 🔧 | Power BI 📊 | VS Code 💻 | Linux 🐧 | Vercel 📉  
-**Data Science:** pandas 🐼 | scikit-learn 🤖 | Matplotlib 🧠 | Numpy 🔢 | Seaborn 📊
+<div align="center">
 
----
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **Backend & Tools** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
-### 🏆 Stats at a Glance
-
-- **Projects Completed:** 10+
-- **Technologies Mastered:** 15+
-- **Lines of Code:** 50K+
-- **Coffee Cups:** ∞
+</div>
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live |
-|---|---|---|---|
-| **[Ani-gpt](https://ani-gpt.netlify.app/)** | Responsive AI assistant platform using Gemini API for intelligent, conversational UX. | React, JS, Tailwind, Supabase | [Code](https://github.com/VIKASGULIA17/Gemini-Clone) |
-| **[Nerverse](https://nexverse-lake.vercel.app/)** | Official tech society site for IITM Janakpuri, with interactive UI. | Next.js, TypeScript, Supabase | [Code](https://github.com/tejveer755/Nexverse) |
-| **[Portfolio Website](https://vikasguliaportfolio.netlify.app/)** | Sleek personal portfolio with animated transitions and responsive design. | React, Tailwind, Framer Motion | [Code](https://github.com/VIKASGULIA17/PortFolio) |
-| **[Personal Development Tracker](https://personal-development-tracker.netlify.app/)** | Dashboard for tracking growth in skills, health, and finances with AI insights. | Next.js, Tailwind, Supabase | [Code](https://github.com/VIKASGULIA17/Personal-development-tracker) |
-| **[Movie Recommendation System](https://movie-recommendation-system-by-vikas.streamlit.app/)** | Content-based movie recommender with ML techniques and Streamlit dashboard. | Python, scikit-learn, Streamlit | [Code](https://github.com/VIKASGULIA17/Movie-recommendation-system) |
-| **[Student Marks Performance Prediction](https://student-marks-prediction.vercel.app/)** | ML model predicting student performance, deployed with Streamlit. | Python, scikit-learn, Streamlit | [Code](https://github.com/VIKASGULIA17/Student_marks_predictor) |
+#### 🛍️ [Laptop Scout - Intelligent Price Tracker](https://github.com/VIKASGULIA17/Laptop-Price-Tracker)
+*An automated market intelligence platform helping users find the best laptop deals via real-time data.*
+* **Pipeline:** Engineered a **GitHub Actions** pipeline to scrape and clean Amazon data weekly.
+* **Analytics:** Interactive dashboard with **Plotly** visualizations for price distribution, brand market share, and RAM vs. Price correlation.
+* **Tech:** Streamlit, Pandas, SQLite, SerpAPI.
+* **Key Feature:** "Buy Now" recommendations based on historical price stability data.
+
+#### 🤖 [AniGPT - AI Assistant Platform](https://github.com/VIKASGULIA17/Ani-gpt)
+*A modern, feature-rich clone of the Gemini interface with persistent memory.*
+* **AI Core:** Powered by **Google Gemini 1.5 Flash** for real-time code generation and problem-solving.
+* **Architecture:** Built with **React 18 & Vite** for performance, featuring **Supabase** for secure authentication and chat history storage (PostgreSQL).
+* **UX:** Includes syntax highlighting, markdown support, and dark/light themes.
+
+#### 📈 [Personal Development Tracker](https://github.com/VIKASGULIA17/Personal-development-tracker)
+*A productivity dashboard for tracking skills, health, and finance goals.*
+* **Database:** Implemented a relational schema in **Supabase** to track progress metrics, streaks, and active days.
+* **Frontend:** Responsive **Next.js** dashboard with real-time activity logging.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIKASGULIA17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vikas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASGULIA17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASGULIA17&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="98%" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+* 🥇 **Winner:** Code of Duty Competitive Programming Contest (2024).
+* 🥇 **Winner:** Project Competition on AI/ML in Python (2025).
+* 🎓 **Academic Excellence:** Maintains a **9.5 GPA** in Bachelor of Computer Applications.
+* 🧩 **Problem Solver:** Solved **450+** problems on LeetCode.
 
 ---
 
 ### ✍️ Latest Blogs
 
-- [A Beginner’s Guide to Python Data Types](https://dev.to/vikas_gulia/exploring-python-data-types-a-beginners-guide-fe2)
-- [A Practical Guide to Web Scraping with Python](https://dev.to/vikas_gulia/web-scraping-in-python-a-practical-guide-for-data-scientists-4012)
-- [Univariate Analysis in Data Science: From Beginner to Expert](https://dev.to/vikas_gulia/univariate-analysis-in-data-science-a-complete-beginner-to-pro-guide-5e81)
-- [Mastering Multivariate Analysis in Data Science](https://dev.to/vikas_gulia/mastering-multivariate-analysis-a-guide-for-data-science-enthusiasts-1gdk)
-- [Feature Scaling in ML: What, Why & How](https://dev.to/vikas_gulia/feature-scaling-in-machine-learning-why-it-matters-and-how-to-do-it-45m5)
-- [Efficient Data Preprocessing with ColumnTransformer & Pipelines](https://dev.to/vikas_gulia/columntransformer-and-pipelines-in-scikit-learn-clean-scalable-and-powerful-preprocessing-3mff)
-- [Mastering Linear Regression with Scikit-Learn](https://dev.to/vikas_gulia/linear-regression-in-machine-learning-the-simplest-yet-most-powerful-start-44k8)
-- [A Guide to Mastering Polynomial Regression](https://dev.to/vikas_gulia/beyond-the-straight-line-a-guide-to-polynomial-regression-56m7)
+* [A Beginner’s Guide to Python Data Types](#)
+* [Univariate Analysis in Data Science: From Beginner to Expert](#)
+* [Feature Scaling in ML: What, Why & How](#)
+* [Efficient Data Preprocessing with ColumnTransformer & Pipelines](#)
 
 ---
 
-### 🌱 Values
-
-- **Integrity:** Committed to honesty and transparency in every project
-- **Innovation:** Always exploring and implementing creative solutions
-- **Growth:** Driven by curiosity and a passion for self-improvement
-- **Empathy:** Building supportive, collaborative relationships
-
----
-
-### 🤝 Let’s Connect!
-
-I'm open to internships, collaborations, and exciting projects in Data Science and Web Development.  
-Let’s connect, innovate, and build something amazing together!
-
----
-*Turning data into stories and code into experiences.*
+<div align="center">
+  <p><i>Let’s connect, innovate, and build something amazing together!</i></p>
+  <p>
+    <a href="https://linkedin.com/in/vikas-gulia-b28255298/">LinkedIn</a> •
+    <a href="https://vikasgulia.vercel.app">Portfolio</a> •
+    <a href="mailto:vikasgulia17@gmail.com">Email</a>
+  </p>
+</div>
